@@ -1,6 +1,8 @@
+### POINT:
+
 POINT is is an application that lets manage your appointments based on Bluetooth name broadcast .
 
-### Note:
+# Note:
 
 *Android 4.4 or newer is required.
 
