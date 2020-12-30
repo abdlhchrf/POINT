@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/one"
+        android:icon="@drawable/get_point"
+        android:title="@string/get_pntmnt"/>
+
+    <item
+        android:id="@+id/two"
+        android:icon="@drawable/set_point"
+        android:title="@string/set_pntmnt"/>
+
+
+    <item
+
+        android:id="@+id/three"
+        android:icon="@drawable/check_pnt"
+        android:title="check " />
+
+</menu>

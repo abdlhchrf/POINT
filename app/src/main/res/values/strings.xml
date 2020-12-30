@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POINT</string>
+    <string name="get_pntmnt">get pnt</string>
+    <string name="set_pntmnt">set pnt</string>
+</resources>
