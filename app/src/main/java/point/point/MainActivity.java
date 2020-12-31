@@ -195,20 +195,20 @@ public class MainActivity extends AppCompatActivity{
 		
 		buttonInsert.setVisibility(View.VISIBLE);
 		editTextInsert.setVisibility(View.VISIBLE);
-		textView.setVisibility(View.VISIBLE);
+		//textView.setVisibility(View.VISIBLE);
 		
 		buttonInsert.setOnLongClickListener(new View.OnLongClickListener(){
 			@Override
 			public boolean onLongClick(View v){
 
-				textView.setVisibility(View.GONE);
+				//textView.setVisibility(View.GONE);
 				buttonInsert.setVisibility(View.GONE);
 				editTextInsert.setVisibility(View.GONE);
 				return true;
 			}
 		});
 
-		buttonInsert.setOnClickListener(new View.OnClickListener(){
+	buttonInsert.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
 				//int position = Integer.parseInt(editTextInsert.getText().toString());
@@ -225,7 +225,7 @@ public class MainActivity extends AppCompatActivity{
 				}
 				buttonInsert.setVisibility(View.GONE);
 				editTextInsert.setVisibility(View.GONE);
-				textView.setVisibility(View.GONE);
+				//textView.setVisibility(View.GONE);
 			}
         });
     }
