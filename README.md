@@ -18,8 +18,8 @@ setup turns online.
 
 ### Note:
 
-*Android 4.4 or newer is required.
+#### Android 4.4 or newer is required.
 
-*Tested with Android 4.4 kitkat , api 19.
+#### Tested with Android 4.4 kitkat , api 19.
 
 
